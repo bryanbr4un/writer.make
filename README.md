@@ -9,6 +9,7 @@ The site includes:
 - Common blogging modules like Views, Pathauto, Mollom, and their dependencies.
 
 Instructions:
-1. Download and install [Drush](http://drupal.org/project/drush)
-2. Open a command prompt window, navigate to the desired directory for your site, and run the following command:
-`drush make https://raw.github.com/bryanbr4un/writer.make/writer.make mysite`
+1. Download and install [Drush](http://drupal.org/project/drush)   
+- Open a command prompt window, navigate to the desired directory for your site, and run the following command:  
+
+`drush make https://raw.github.com/bryanbr4un/writer.make/master/writer.make mysite`
