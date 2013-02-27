@@ -8,8 +8,8 @@ The site includes:
 - CKEditor for WYSIWYG editing
 - Common blogging modules like Views, Pathauto, Mollom, and their dependencies.
 
-Instructions:
+###Instructions:  
 1. Download and install [Drush](http://drupal.org/project/drush)   
-- Open a command prompt window, navigate to the desired directory for your site, and run the following command:  
-
+2. Open a command prompt window, navigate to the desired directory for your site, and run the following command:  
+  
 `drush make https://raw.github.com/bryanbr4un/writer.make/master/writer.make mysite`
